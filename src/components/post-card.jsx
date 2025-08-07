@@ -6,7 +6,8 @@ import { Card } from "@/components/ui/card";
 import { useAuth } from "@/context/AuthContext";
 import { Circle } from 'lucide-react';
 import { toast } from 'sonner';
-const BASE_URL = "http://localhost:5000"
+import { BASE_URL } from '@/utils/func';
+
 const PostCard = ({runEffect}) => {
   const { user, token } = useAuth()
   const [content, setContent] = useState("");
