@@ -70,7 +70,7 @@ export default function RegisterPage() {
         <h1 className=" scroll-m-20  text-7xl font-extrabold tracking-tight text-balance mb-7">SocioHub</h1>
 
         <p>
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eveniet non quibusdam itaque error eos? Sit dignissimos veniam, nostrum voluptates sunt iusto accusamus! Ea, eaque aperiam nostrum aspernatur itaque placeat repellendus.
+       
 
         </p>
       </div>
